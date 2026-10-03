@@ -12,7 +12,7 @@ For this activity, you don't need to know Git commands or understand complicated
 
 ## How does this work?
 
-The basic workflow that can be followed is:
+The basic workflow that can be followed is;
 
 **Fork → Edit → Commit → Pull Request → Merge**
 
